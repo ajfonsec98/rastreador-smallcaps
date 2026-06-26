@@ -1,0 +1,126 @@
+{
+  "fecha": "2026-06-24",
+  "alertas": [
+    {
+      "ticker": "BLZE",
+      "fecha_sesion": "2026-06-24",
+      "precio": 11.97,
+      "cambio_precio_pct": 2.66,
+      "volumen_sesion": 12947673,
+      "volumen_promedio": 3186450,
+      "ratio_volumen": 4.06,
+      "nombre": "Backblaze Inc. Class A Common Stock",
+      "sector": "Technology",
+      "rubro": "Computer Software: Prepackaged Software",
+      "bolsa": "No disponible",
+      "pais": "United States",
+      "razones_verificacion": [
+        "8-K Item 1.01 (acuerdo importante firmado), 2026-06-23",
+        "8-K Item 3.02 (venta de acciones fuera del proceso normal), 2026-06-23"
+      ],
+      "fuentes_sec": [
+        "https://www.sec.gov/Archives/edgar/data/1462056/000162828026044804/blze-20260616.htm"
+      ],
+      "menciones_noticias": [
+        {
+          "titulo": "Needham raises Backblaze stock price target on CoreWeave deal - Investing.com",
+          "fuente": "Investing.com",
+          "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdG43dHg3Q0FCU3cyY0NTVU5iNnRmbDJ2OHlMYmJRWml6aU9fQmxNcENaV1Qwc095LXdUY2hsRmNVdkZDQmR4U1FybHQ2Tzd6VnNNby13aDlieTBZOXplZ05uUnVxWGlyVmRHY0ozcVF2M3ZUWko3dnY4QzhYUHozN25vTHlqX1JaZFk1SEZOb3dJWktwbGE1Z2hpTnRMbzZSOThfV2ZIYkVUM0RfbGVpMk9aNmRGTTJ1WjU0aE9B?oc=5",
+          "fecha": "24 jun 2026"
+        },
+        {
+          "titulo": "BLZE Maintained by Needham -- Price Target Raised to $14.00 - GuruFocus",
+          "fuente": "GuruFocus",
+          "enlace": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUkx1cWcyS3pMMS04VmYtdXpMVWZ2UmtoLTFiLW51SVVfX0xzbVhaTkd1SlUxaXlxQ3JZTnZwMXVaT2JsZDg4Tld1MFg5MWhlbU5qVk1HeUZTWTF3WElvYXdfS3NjQ1pZSWFDOE1DQW9ic2g2UTBLUFhNTjFDQUZXLWIzX2xhcFc4WVJuMFQ3MU5QTXFBS3I2Q3VRRjZ5VHlXLW90cmoyb28?oc=5",
+          "fecha": "24 jun 2026"
+        },
+        {
+          "titulo": "BLZE Stock On Track For Its Best Day Since March 2024 – ‘Game-Changing’ CoreWeave Deal Sparks Analyst Upgrades - Stocktwits",
+          "fuente": "Stocktwits",
+          "enlace": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQb0dyT3V3clMyX3J4NjRFcXdPMEF6SmYydXNBWkxHOHRBMXVDOXA2UnprUGoyeXBtU3ltM3I0VDZHeHI2NU56QWI4V0lIa3d1ZmlBSjJwN3R0ZDNyMWlBNlN2Q3d3Z2JqZkR1b3ZqY29QYmx4SWd4d2tlM1RiTGIxMFNucXVvUEdOMEQ5djRxNDhJXzhBdlF0WG1lM2VuaGlUSUdDQTNuQmRydTBXMllUaEE4WHpxSHVSTTc2a3NjWUxhRUUzOWpkV0t3?oc=5",
+          "fecha": "24 jun 2026"
+        }
+      ]
+    },
+    {
+      "ticker": "ABSI",
+      "fecha_sesion": "2026-06-24",
+      "precio": 10.07,
+      "cambio_precio_pct": 35.96,
+      "volumen_sesion": 38085558,
+      "volumen_promedio": 5594290,
+      "ratio_volumen": 6.81,
+      "nombre": "Absci Corporation Common Stock",
+      "sector": "Health Care",
+      "rubro": "Biotechnology: Commercial Physical & Biological Resarch",
+      "bolsa": "No disponible",
+      "pais": "United States",
+      "razones_verificacion": [
+        "8-K Item 1.01 (acuerdo importante firmado), 2026-06-24"
+      ],
+      "fuentes_sec": [
+        "https://www.sec.gov/Archives/edgar/data/1672688/000119312526281143/d139233d8k.htm"
+      ],
+      "menciones_noticias": [
+        {
+          "titulo": "ABSI Maintains by BTIG -- Price Target Raised to $13 - GuruFocus",
+          "fuente": "GuruFocus",
+          "enlace": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcmpKLThoWFQ3aUY4S3B6REgyWDltdUJUMk51aG1GNUVSRG9ZWWFUNWlSdi14OG9UVTJmV3hIdTIxRzlqem5TSTRkVWpScVUtdFpEeUFpNnpsS09EZzRfMW5YVmNfUkpXSzF5VEJLSmFRUGVGNTF2WWUyN2xnZWJkLVQwX3RWUE4zRktIWmVsNzU?oc=5",
+          "fecha": "24 jun 2026"
+        },
+        {
+          "titulo": "$ABSI stock is up 14% today. Here's what we see in our data. - Quiver Quantitative",
+          "fuente": "Quiver Quantitative",
+          "enlace": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaDE5eVJIZHp0VkdoM0Q2YzdCRHFHblBVOE51M0RYTWI5UFZTNkFuUTN1cHh2ZVMtVkFZQ2s0SDF6VFB3Wk0zbUVuWFYyUDBpMjdHaEZYbzhueTBDZUVzbWsxX1c5MnNBU2dnb3Z4UDBVckVDSGprY0tHbG5wakpIWnhJTW53bWs5c2VtNGh2NGZNV2pHR1dOZFk3SWE1bGYt?oc=5",
+          "fecha": "4 may 2026"
+        },
+        {
+          "titulo": "BTIG initiates Absci stock with buy rating on AI drug platform - Investing.com",
+          "fuente": "Investing.com",
+          "enlace": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRHJEWlN0b3hyeTNMTlYyVHlYc1hpWnhwc0JjVnY2bmVRZGdGaktJS3R1Sm1JVndPTUNMYk5nNHlndVNNZ05ka01QUDVKSGdFQlN5LUhxbUJSZEJ2UXhzYTBGV2hVVE41YnZLQU9WNkVMVDZkTGRJdUJvekNpQWh0OUFKRTFUZHByOVJJcWZ3d3RIOUZSUm55RFdZM2s2Umc2ZWMyY3VfMUFYNVBsZ1FPUmdaWDdlNWtmbDhYcnExaw?oc=5",
+          "fecha": "28 may 2026"
+        }
+      ]
+    },
+    {
+      "ticker": "NVCT",
+      "fecha_sesion": "2026-06-24",
+      "precio": 24.48,
+      "cambio_precio_pct": 39.49,
+      "volumen_sesion": 1275876,
+      "volumen_promedio": 125645,
+      "ratio_volumen": 10.15,
+      "nombre": "Nuvectis Pharma Inc. Common Stock",
+      "sector": "Health Care",
+      "rubro": "Biotechnology: Pharmaceutical Preparations",
+      "bolsa": "No disponible",
+      "pais": "United States",
+      "razones_verificacion": [
+        "8-K Item 1.01 (acuerdo importante firmado), 2026-06-23"
+      ],
+      "fuentes_sec": [
+        "https://www.sec.gov/Archives/edgar/data/1875558/000110465926076624/tm2618439d1_8k.htm"
+      ],
+      "menciones_noticias": [
+        {
+          "titulo": "NVCT Maintained by HC Wainwright & Co. -- Price Target Raised to $13.00 - GuruFocus",
+          "fuente": "GuruFocus",
+          "enlace": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMkhEN0F6dU44SmlRQWRfc3dXOWNMRU13eURlYktXdjZrNGJobEJ6VmZIdnBpX0JTRWt6S3NsMmxPZm1JODRLTkdEeEp6ZmN3b1BmMmg2NzU2R3dnZlprU1NFdkVyT2hMYzJrZ0VRRElaMFlSdzJfNzhvOUZFXzlRM2JybjhJRnFmcERadzVUbjNNVVVqak1YWldGSHF5RWNsbHRJdnJ1WEhySFUyNjktNEYwM2E?oc=5",
+          "fecha": "13 jun 2026"
+        },
+        {
+          "titulo": "Nuvectis Pharma Inc (NVCT) Earnings Forecast: Future EPS & Revenue Growth Estimates - TradingKey",
+          "fuente": "TradingKey",
+          "enlace": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBheDd3RnprbFRSdEQzQVpOMDh6ck44aVpsNXVsTEUwdU9EZU41alRGZmRVWHRSLXdTaEJqeF9NY0Q2bVV5SU1QVDhyRUFOY0ZiZ29Kc3ZsaWQ5R3lWZ0JyUXdodkhPVW1wWVBxaEIzdw?oc=5",
+          "fecha": "17 jun 2026"
+        },
+        {
+          "titulo": "Nuvectis Pharma, Inc. to Participate in H.C. Wainwright Global Investment Conference with On-Demand Presentation and Virtual Meetings - Quiver Quantitative",
+          "fuente": "Quiver Quantitative",
+          "enlace": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxONXd6eWJnZFBqVkNINEF3QU9nUm1OSnhnUjZPZG9neU9mcnpreWdfdjdtdnQwaVJCWEN2M1Utc0FEc3BPZzN0X0Ezd1pzV3Q0REdsVjZzcVJ3MUFsYmVaLW9XZkVobDJNZkZtbkdTbnVfSl9JdDNfbDlLX2Y3aXdiQ2FWOTdUNzNzTm15c2JBanFFaUMxVFBRcUo3eWxpRmJLcTJobkh6Mk1zT2h4YzcxTTFmdkdOZnVaU01OeVR3cDh4NFl1TTlrUUVDeTNxYzJPWnI2c2hfWU10S3pib2pzRDRkRWZ5YXNraUJhaHVoWm9mOG9iS2lNNmVnd0Q?oc=5",
+          "fecha": "4 sep 2025"
+        }
+      ]
+    }
+  ]
+}
